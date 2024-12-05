@@ -12,6 +12,7 @@ public class lab1_bt2 {
 		System.out.println("Chu vi hcn la: " + (chieudai + chieurong) * 2);
 		System.out.println("Dien tich hcn la: " + (chieudai * chieurong));
 		System.out.println("Canh nho nhat la: " + Math.min(chieudai, chieurong));
+		scanner.close();
 
 	}
 }

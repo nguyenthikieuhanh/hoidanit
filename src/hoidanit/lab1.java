@@ -10,5 +10,6 @@ public class lab1 {
 		System.out.println("Diem trung binh");
 		int diem = scanner.nextInt();
 		System.out.println("Sinh vien " + name + " co diem trung binh la: " + diem);
+		scanner.close();
 	}
 }
